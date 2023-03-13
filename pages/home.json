@@ -4,5 +4,35 @@
   "url": "/home",
   "params": {},
   "variables": [],
-  "children": []
+  "children": [
+    {
+      "name": "h1",
+      "nodeName": "h1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Roxe6M"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": ""
+      },
+      "styles": [],
+      "children": [
+        {
+          "name": "text",
+          "nodeName": "text",
+          "textContent": "h1",
+          "evaluate": false
+        }
+      ]
+    }
+  ]
 }
